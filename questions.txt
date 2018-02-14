@@ -1,0 +1,161 @@
+{
+    "AllQuestion": [
+        {
+            "q": "Grand Central Terminal, Park Avenue, New York is the world's",
+            "A": "largest railway station",
+            "B": "highest railway station",
+            "C": "longest railway station",
+            "D": "None of the above",
+            "answer": 0 
+
+    },
+        {
+            "q": "Film and TV institute of India is located at",
+            "A": "Pune (Maharashtra)",
+            "B": "Pimpri (Maharashtra)",
+            "C": "Rajkot (Gujarat)",
+            "D": "Perambur (Tamilnadu)",
+            "answer": 2 
+
+    },
+        {
+            "q": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+            "A": "Asia",
+            "B": "Europe",
+            "C": "Africa",
+            "D": "Australia",
+             "answer": 2 
+
+    },
+        {
+            "q": "Garampani sanctuary is located at",
+            "A": "Junagarh, Gujarat",
+            "B": "Diphu, Assam",
+            "C": "Kohima, Nagaland",
+            "D": "Gangtok, Sikkim",
+              "answer": 1 
+
+    },
+        {
+            "q": "For which of the following disciplines is Nobel Prize awarded?",
+            "A": "Physics and Chemistry",
+            "B": "Physiology or Medicine",
+            "C": "Literature, Peace and Economics",
+            "D": "All of the above",
+              "answer": 3 
+
+    },
+        {
+            "q": "Hitler party which came into power in 1933 is known as",
+            "A": "Labour Party",
+            "B": "Nazi Party",
+            "C": "Ku-Klux-Klan",
+            "D": "Democratic Party",
+             "answer": 1 
+    },
+        {
+            "q": "Fastest shorthand writer was  ",
+            "A": "Dr. G. D. Bist",
+            "B": "J.R.D. Tata",
+            "C": "J.M. Tagore",
+            "D": "Khudada Khan",
+              "answer": 0 
+    },
+        {
+            "q": "Epsom (England) is the place associated with",
+            "A": "Polo",
+            "B": "Horse racing",
+            "C": "Shooting",
+            "D": "Snooker",
+             "answer": 1 
+    },
+        {
+            "q": "First human heart transplant operation conducted by Dr. Christiaan Barnard on Louis Washkansky, was conducted in",
+            "A": "1922",
+            "B": "1968",
+            "C": "1958",
+            "D": "1967",
+              "answer": 3
+    },
+        {
+            "q": "Federation Cup, World Cup, Allywyn International Trophy and Challenge Cup are awarded to winners of",
+            "A": "Tennis",
+            "B": "Volleyball",
+            "C": "Basketball",
+            "D": "Cricket",
+              "answer": 1 
+    },
+        {
+            "q": "Each year World Red Cross and Red Crescent Day is celebrated on",
+            "A": "May 8",
+            "B": "May 18",
+            "C": "June 8",
+            "D": "June 18",
+              "answer": 0 
+    },
+        {
+            "q": "Famous sculptures depicting art of love built some time in 950 AD – 1050 AD are",
+            "A": "Sun temple",
+            "B": "Jama Masjid",
+            "C": "Khajuraho temples",
+            "D": "Mahabalipuram temples",
+              "answer": 2
+    },
+        {
+            "q": "Golf player Vijay Singh belongs to which country?",
+            "A": "USA",
+            "B": "Fiji",
+            "C": "India",
+            "D": "UK",
+              "answer": 1 
+    },
+        {
+            "q": "Guarantee to an exporter that the importer of his goods will pay immediately for the goods ordered by him, is known as",
+            "A": "laissezfaire",
+            "B": "Letter of Credit (L/C)",
+            "C": "inflation",
+            "D": "None of the above",
+              "answer": 1
+    },
+        {
+            "q": "First Afghan War took place in",
+            "A": "1839",
+            "B": "1843",
+            "C": "1833",
+            "D": "1848",
+             "answer": 0 
+    },
+        {
+            "q": "Gravity setting chambers are used in industries to remove",
+            "A": "SOx",
+            "B": "NOx",
+            "C": "suspended particulate matter",
+            "D": "CO",
+             "answer": 2 
+    },
+        {
+            "q": "First China War was fought between",
+            "A": "China and Greek",
+            "B": "China and France",
+            "C": "China and Egypt",
+            "D": "China and Britain",
+              "answer": 3
+    },
+        {
+            "q": "Guwahati High Court is the judicature of",
+            "A": "Nagaland",
+            "B": "Arunachal Pradesh",
+            "C": "Assam",
+            "D": "All of the above",
+              "answer": 3 
+    },
+        {
+            "q": "For the Olympics and World Tournaments, the dimensions of basketball court are",
+            "A": "26 m x 14 m",
+            "B": "28 m x 15 m",
+            "C": "27 m x 16 m",
+            "D": "28 m x 16 m",
+              "answer": 1 
+    }
+]
+}
